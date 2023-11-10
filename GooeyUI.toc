@@ -1,0 +1,5 @@
+## Interface: 60000
+## Title: GooeyUI
+## Version: 0.1
+## Notes: A simple UI for Gooey
+## Author: GOOEY
